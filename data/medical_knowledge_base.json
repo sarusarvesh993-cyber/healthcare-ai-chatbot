@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "topic": "Common Cold",
+    "content": "The common cold is a viral infection of the upper respiratory tract. Symptoms include runny nose, sore throat, cough, congestion, mild body aches, sneezing, low-grade fever, and general malaise. Most colds last 7-10 days. Treatment focuses on symptom relief: rest, hydration, over-the-counter decongestants, and pain relievers. Prevention includes frequent handwashing, avoiding touching the face, and maintaining distance from sick individuals.",
+    "source": "Mayo Clinic - Common Cold Overview",
+    "category": "common_symptoms"
+  },
+  {
+    "id": 2,
+    "topic": "Type 2 Diabetes",
+    "content": "Type 2 diabetes is a chronic condition that affects the way the body processes blood sugar. The body either resists the effects of insulin or does not produce enough insulin. Risk factors include obesity, sedentary lifestyle, family history, and age. Symptoms may include increased thirst, frequent urination, hunger, fatigue, and blurred vision. Management involves lifestyle changes, blood sugar monitoring, and sometimes medication.",
+    "source": "American Diabetes Association",
+    "category": "general_diseases"
+  },
+  {
+    "id": 3,
+    "topic": "Hypertension",
+    "content": "Hypertension is a common condition where the long-term force of blood against artery walls is high enough to cause health problems. It typically develops over many years. Often has no symptoms but can damage blood vessels, heart, brain, kidneys, and eyes. Treatment includes lifestyle changes such as DASH diet, sodium reduction, regular exercise, weight management, limiting alcohol, and medications. Normal blood pressure is less than 120/80 mmHg.",
+    "source": "American Heart Association",
+    "category": "general_diseases"
+  },
+  {
+    "id": 4,
+    "topic": "Healthy Eating Guidelines",
+    "content": "A healthy diet includes fruits, vegetables, whole grains, lean proteins such as fish, poultry, beans, nuts, and low-fat dairy. Limit sodium to less than 2300mg per day, added sugars to less than 10 percent of daily calories, and saturated fats to less than 10 percent of daily calories. Stay hydrated with 8-10 glasses of water daily. The Mediterranean and DASH diets are evidence-based eating patterns associated with reduced cardiovascular disease risk.",
+    "source": "USDA Dietary Guidelines 2020-2025",
+    "category": "nutrition_diet"
+  },
+  {
+    "id": 5,
+    "topic": "Physical Activity Recommendations",
+    "content": "Adults should aim for at least 150 minutes of moderate-intensity aerobic activity or 75 minutes of vigorous-intensity aerobic activity per week, plus muscle-strengthening activities on 2 or more days per week. Benefits include weight management, reduced risk of heart disease, type 2 diabetes, and some cancers, improved mental health and mood, stronger bones and muscles, and increased chances of living longer.",
+    "source": "CDC Physical Activity Guidelines",
+    "category": "healthy_lifestyle"
+  },
+  {
+    "id": 6,
+    "topic": "Vaccination and Preventive Healthcare",
+    "content": "Vaccines are one of the most effective tools for preventing infectious diseases. Recommended adult vaccines include annual flu vaccine, Tdap, shingles vaccine for those 50 and older, pneumococcal vaccines for those 65 and older, COVID-19 vaccines, and HPV vaccine up to age 45. Preventive healthcare also includes regular screenings for blood pressure, cholesterol, cancer, and diabetes. Early detection through screenings significantly improves treatment outcomes.",
+    "source": "CDC Immunization Schedules",
+    "category": "preventive_healthcare"
+  },
+  {
+    "id": 7,
+    "topic": "First Aid for Burns",
+    "content": "For minor burns of first-degree: Cool the burn under cool running water for 10-20 minutes. Do not use ice. Apply aloe vera or moisturizer. Cover with a sterile bandage. Take over-the-counter pain relievers if needed. Do not pop blisters. Seek medical attention for burns larger than 3 inches, burns on the face, hands, feet, groin, or major joints, deep burns, or burns that appear white, brown, or charred.",
+    "source": "American Red Cross First Aid Guidelines",
+    "category": "first_aid"
+  },
+  {
+    "id": 8,
+    "topic": "First Aid for Choking",
+    "content": "For a conscious choking adult: Ask if they are choking. If they cannot speak, cough forcefully, or breathe, call 911 immediately. Perform the Heimlich maneuver by standing behind the person, wrapping your arms around their waist, making a fist and placing it above the navel, grasping your fist with the other hand, and thrusting inward and upward. Repeat until the object is expelled or the person becomes unconscious.",
+    "source": "American Heart Association CPR Guidelines",
+    "category": "first_aid"
+  },
+  {
+    "id": 9,
+    "topic": "Mental Health and Stress Management",
+    "content": "Mental health is as important as physical health. Effective stress management techniques include regular physical exercise, adequate sleep of 7-9 hours for adults, mindfulness and meditation, deep breathing exercises, maintaining social connections, setting realistic goals, limiting caffeine and alcohol, and seeking professional help when needed. Warning signs include persistent sadness, withdrawal from activities, and thoughts of self-harm.",
+    "source": "National Institute of Mental Health",
+    "category": "healthy_lifestyle"
+  },
+  {
+    "id": 10,
+    "topic": "Sleep Hygiene",
+    "content": "Adults need 7-9 hours of sleep per night. Good sleep hygiene practices include maintaining a consistent sleep schedule, creating a dark, quiet, and cool sleeping environment, avoiding screens 1 hour before bedtime, limiting caffeine after 2 PM, avoiding large meals before bed, exercising regularly but not too close to bedtime, and using the bed only for sleep. Chronic sleep deprivation is linked to heart disease, diabetes, obesity, and depression.",
+    "source": "National Sleep Foundation",
+    "category": "healthy_lifestyle"
+  },
+  {
+    "id": 11,
+    "topic": "Heart Attack Warning Signs",
+    "content": "Heart attack warning signs include chest pain or discomfort with pressure, squeezing, or fullness, pain in one or both arms, the back, neck, jaw, or stomach, shortness of breath, cold sweat, nausea, or lightheadedness. Women may experience atypical symptoms including shortness of breath, nausea, and back or jaw pain. If you suspect a heart attack, call emergency services immediately, chew an aspirin if not allergic, and stay calm.",
+    "source": "American Heart Association",
+    "category": "first_aid"
+  },
+  {
+    "id": 12,
+    "topic": "COVID-19 Prevention and Symptoms",
+    "content": "COVID-19 symptoms may appear 2-14 days after exposure and include fever or chills, cough, shortness of breath, fatigue, muscle aches, headache, new loss of taste or smell, sore throat, congestion, nausea, and diarrhea. Prevention measures include staying up-to-date with vaccinations, improving ventilation, washing hands frequently, using hand sanitizer, covering coughs and sneezes, and staying home when sick.",
+    "source": "CDC COVID-19 Guidelines",
+    "category": "preventive_healthcare"
+  },
+  {
+    "id": 13,
+    "topic": "Allergies and Seasonal Allergies",
+    "content": "Allergies occur when the immune system reacts to a foreign substance. Common allergens include pollen, dust mites, mold, pet dander, food such as nuts, shellfish, milk, and eggs, insect stings, and medications. Seasonal allergies are triggered by pollen from trees, grasses, and weeds. Symptoms include sneezing, runny nose, watery eyes, and itching. Treatment options include antihistamines, nasal corticosteroids, and allergy immunotherapy.",
+    "source": "American Academy of Allergy, Asthma and Immunology",
+    "category": "general_diseases"
+  },
+  {
+    "id": 14,
+    "topic": "Water Safety and Hydration",
+    "content": "Adequate hydration is essential for health. The National Academies recommend about 3.7 liters of total water daily for men and 2.7 liters for women from all beverages and food. Signs of dehydration include dark urine, fatigue, dizziness, and dry mouth. Tips for staying hydrated include carrying a water bottle, eating water-rich foods, drinking before and during exercise, and limiting sugary drinks and excessive caffeine.",
+    "source": "National Academies of Sciences",
+    "category": "nutrition_diet"
+  },
+  {
+    "id": 15,
+    "topic": "Wound Care and Bleeding Control",
+    "content": "For minor wounds: wash hands, clean the wound with water, apply antibiotic ointment, and cover with a sterile bandage. For severe bleeding: call 911, apply direct pressure with a clean cloth, keep pressure continuous for at least 15 minutes, elevate the injured area above the heart if possible. Signs of infection include increasing redness, swelling, warmth, pus, red streaks, or fever. Tetanus boosters are recommended every 10 years.",
+    "source": "American Red Cross",
+    "category": "first_aid"
+  },
+  {
+    "id": 16,
+    "topic": "Gut Health and Probiotics",
+    "content": "The gut microbiome plays a crucial role in overall health, affecting digestion, immune function, and even mental health. A healthy gut microbiome is supported by eating a diverse range of foods, consuming prebiotics such as garlic, onions, and bananas, including probiotics such as yogurt, kefir, sauerkraut, and kimchi, limiting processed foods, and avoiding unnecessary antibiotics. The gut-brain axis connects gut health to mental well-being.",
+    "source": "Harvard Health Publishing",
+    "category": "nutrition_diet"
+  },
+  {
+    "id": 17,
+    "topic": "Skin Health and Sun Protection",
+    "content": "Skin cancer is the most common cancer. Protection measures include using broad-spectrum sunscreen SPF 30 or higher daily, reapplying every 2 hours, seeking shade during peak sun hours from 10 AM to 4 PM, wearing protective clothing and wide-brimmed hats, avoiding tanning beds, and performing monthly skin self-examinations. The ABCDE rule for detecting melanoma includes Asymmetry, Border irregularity, Color variation, Diameter larger than 6mm, and Evolving size.",
+    "source": "American Academy of Dermatology",
+    "category": "preventive_healthcare"
+  },
+  {
+    "id": 18,
+    "topic": "Flu Influenza",
+    "content": "Influenza is a contagious respiratory illness caused by influenza viruses. Symptoms come on suddenly and include fever, cough, sore throat, runny nose, muscle aches, headaches, and fatigue. Complications can include pneumonia, ear infections, and sinus infections. Annual flu vaccination is recommended for everyone 6 months and older. Antiviral drugs can treat the flu and are most effective when started within 48 hours of symptoms.",
+    "source": "CDC Influenza Information",
+    "category": "general_diseases"
+  },
+  {
+    "id": 19,
+    "topic": "Eye Health and Vision Care",
+    "content": "Maintaining eye health includes regular comprehensive eye exams, wearing sunglasses that block 99 to 100 percent of UV rays, using protective eyewear during sports, following the 20-20-20 rule for digital screens where every 20 minutes you look at something 20 feet away for 20 seconds, eating foods rich in omega-3 fatty acids, lutein, zinc, and vitamins C and E, and not smoking. Seek immediate care for sudden vision loss or eye trauma.",
+    "source": "American Academy of Ophthalmology",
+    "category": "preventive_healthcare"
+  },
+  {
+    "id": 20,
+    "topic": "Common Headaches and Migraines",
+    "content": "Headaches are categorized into primary types such as tension, migraine, and cluster, and secondary types caused by another condition. Tension headaches cause a dull aching sensation with tightness around the forehead. Migraines involve intense throbbing pain often on one side with nausea, vomiting, and sensitivity to light and sound. Triggers include stress, certain foods, hormonal changes, and sleep irregularities. Seek immediate attention for the worst headache of your life or headache after head injury.",
+    "source": "American Migraine Foundation",
+    "category": "common_symptoms"
+  }
+]
