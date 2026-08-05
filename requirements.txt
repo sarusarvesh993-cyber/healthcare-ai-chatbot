@@ -1,7 +1,4 @@
 ﻿fastapi
 uvicorn
 openai
-langchain
 pydantic
-pytest
-ruff
