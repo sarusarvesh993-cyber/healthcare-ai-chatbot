@@ -35,5 +35,4 @@ jobs:
 
     - name: Run Tests
       run: |
-        # Run standard python compilation validation checks to ensure zero syntax errors
         python -m compileall .
